@@ -1,4 +1,4 @@
 # wangz
-A game with squad. 
+A game with friends. 
 
 Mau wuz here :sunglasses: :eggplant:
